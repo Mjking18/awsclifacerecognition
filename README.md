@@ -1,1 +1,0 @@
-# aws-cv2-mail-sms
